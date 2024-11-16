@@ -1,0 +1,9 @@
+tensor usually consists of (num of batch, data in every batch)
+vanishing gradients and solution
+    might be caused by
+        deep neural network
+        reward being too sparse
+
+Learning rate: 
+    reward decrease: learning rate too large
+    1e-5 better than 1e-4
